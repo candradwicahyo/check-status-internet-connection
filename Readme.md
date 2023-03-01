@@ -7,7 +7,6 @@ dibuat menggunakan html, css dan javascript. program ini akan menampilkan status
 * html   
 * css
   * [bootstrap](https://getbootstrap.com)
-  
 * javascript 
 
 ## kontributor
